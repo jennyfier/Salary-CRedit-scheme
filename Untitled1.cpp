@@ -14,8 +14,7 @@ int main()
         {
             if(s[i]=='0')
             ca++;
-            else
-            cb++;
+       
         }
         int ans=0;
         ans=((ca*a)+(cb*b));
