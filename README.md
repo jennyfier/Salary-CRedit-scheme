@@ -1,1 +1,1 @@
-# Salary-CRedit-scheme
+# Salary-Credit-scheme
